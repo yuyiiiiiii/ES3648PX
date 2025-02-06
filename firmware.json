@@ -40,5 +40,17 @@
     "version": "8.40.00.57_1.0.0+0",
     "hwType": "LP_EM_CC2340R5",
     "imageType": "mcuboot"
+  },
+  {
+    "fileName": "basic_ble_oad_onchip_LP_EM_CC2340R5_freertos_ticlang_v1_cc2340r5_1804_rge.bin",
+    "version": "8.40.00.57_1.0.0+0",
+    "hwType": "LP_EM_CC2340R5RGE",
+    "imageType": "mcuboot"
+  },
+  {
+    "fileName": "basic_ble_oad_onchip_LP_EM_CC2340R5_freertos_ticlang_v1_cc2340r5_0943_rge.bin",
+    "version": "8.40.00.57_1.0.0+0",
+    "hwType": "LP_EM_CC2340R5RGE",
+    "imageType": "mcuboot"
   }
 ]
